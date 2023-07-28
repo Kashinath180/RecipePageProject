@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgb(241, 157, 0),rgb(230, 146, 49),rgb(250, 128, 72));
+}
+h1{
+    color: rgb(29, 25, 25);
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #070707,
+                    #3a3535, #3a2d3a, #070707);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+}
+ul{
+    font-size: 50px;
+    line-height: 2em;
+}
